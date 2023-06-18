@@ -19,7 +19,9 @@ favicon-url: /assets/images/favicon.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 # heroimage: /assets/images/windows.jpg
-heroimage: https://source.unsplash.com/4Mw7nkQDByk
+# heroimage: https://source.unsplash.com/4Mw7nkQDByk # sudo image
+# heroimage: https://source.unsplash.com/zGuBURGGmdY # glasses and code screens
+heroimage: https://source.unsplash.com/zvHhKiVuR9M # scripting screen
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
