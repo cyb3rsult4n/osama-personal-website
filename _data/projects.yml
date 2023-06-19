@@ -23,6 +23,6 @@
 - name: Bank Network Design and Implementation
   image: >-
     https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/projects/bank.png
-  link: 'https://github.com/omar-danasoury/bank-network-design'
+  link: 'https://github.com/omar-danasoury/enterprise-bank-network'
   description: >-
     A network design and implementation for a small bank branch. Subnetting was done besides configuring VLANs, SSH, Syslog, NTP, and FTP.
