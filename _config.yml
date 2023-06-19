@@ -21,7 +21,8 @@ favicon-url: /assets/images/favicon.png
 # heroimage: /assets/images/windows.jpg
 # heroimage: https://source.unsplash.com/4Mw7nkQDByk # sudo image
 # heroimage: https://source.unsplash.com/zGuBURGGmdY # glasses and code screens
-heroimage: https://source.unsplash.com/zvHhKiVuR9M # scripting screen
+# heroimage: https://source.unsplash.com/zvHhKiVuR9M # scripting screen
+heroimage: /assets/images/windows2.png # scripting screen
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -38,7 +39,8 @@ github_username:  omar-danasoury
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+# disqus-shortname: thedevslot
+disqus-shortname:
 
 # Name of the Author
 author-name: Omar Eldanasoury
