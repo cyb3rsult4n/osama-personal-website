@@ -8,7 +8,7 @@
     
 - name: Flash Text
   image: >-
-    https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/projects/flash_text.jpg
+    https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/projects/flash2.jpeg
   link: 'https://github.com/omar-danasoury/flash_text'
   description: >-
     An instant messaging app that made by using Flutter as a front-end, and Firebase as a backend.
