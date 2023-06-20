@@ -10,6 +10,15 @@ tags:
 - linux
 - CLI
 - tryhackme
+- system-administration
+- cybersecurity
 ---
 
+# Overview
+A practical session with the GDSC community about the Linux operating system and how to get started using it with the basic command line (CLI) commands.  
+ 
+Enjoy the session :)
+
+
+# Session Recording
 <iframe width="1519" height="495" src="https://www.youtube.com/embed/15DhvD50rkc" title="Linux Fundamentals | (Part-1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
