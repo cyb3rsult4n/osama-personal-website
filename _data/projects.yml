@@ -6,7 +6,7 @@
     A website for visitors to view, book, and rate trips. Admins can also add
     new destinations to the database
     
-- name: Flash Text (Flutter + Firebase)
+- name: Flash Chat (Flutter + Firebase)
   image: >-
     https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/projects/flash2.jpeg
   link: 'https://github.com/omar-danasoury/flash_text'
