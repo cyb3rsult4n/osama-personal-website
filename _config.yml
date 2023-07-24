@@ -23,7 +23,8 @@ favicon-url: https://raw.githubusercontent.com/omar-danasoury/personal-website/m
 # heroimage: https://source.unsplash.com/zGuBURGGmdY # glasses and code screens
 # heroimage: https://source.unsplash.com/zvHhKiVuR9M # scripting screen
 # heroimage: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/windows2.png # windows screen, the big file
-heroimage: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/windows.jpg # windows screen
+# heroimage: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/windows.jpg # windows screen
+heroimage: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/red-cli.gif # windows screen
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -34,6 +35,7 @@ email: omardanasoury8@gmail.com
 linkedin_username: omar-eldanasoury
 github_username:  omar-danasoury
 # youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+# tryhackme_username: Bararos01
 
 
 # Google Analytics
