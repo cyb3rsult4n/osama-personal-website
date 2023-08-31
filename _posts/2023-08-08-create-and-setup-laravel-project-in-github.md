@@ -62,7 +62,6 @@ you can add any name other than `origin` (note: redo this again and run git remo
 Finally, we will set the upstream to the same remote repo so we can push to the remote repository on Github.
 
 ``` bash
-git 
 git push -u origin main (need to understand more this command)
 ```
 
