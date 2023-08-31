@@ -7,6 +7,7 @@ tags:
 - laravel
 - github
 - git
+post-image: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/posts/laravel.jpg
 ---
 
 In this blog, we will be discovering how to start and setup a laravel project in Github to start our development using Laravel!
@@ -51,13 +52,13 @@ git branch -M main
 After that, all we need is to set the `origin` remote repository link we can push to our remote server in Github later.
 if you run `git remote -v` you will get empty result at this point as we did not add anything yet.  
 
+Note that the name `origin` can be changed to any name you prefer. I prefered to use it to represent our remote repository hosted on github.
+
 So let's run the following command:
 
 ``` bash
 git remote add origin your-remote-repo-link
 ```
-
-you can add any name other than `origin` (note: redo this again and run git remote -v to see the effect of this command and to see the result that was there before running the  next command)  
 
 Finally, we will set the upstream to the same remote repo so we can push to the remote repository on Github.
 
