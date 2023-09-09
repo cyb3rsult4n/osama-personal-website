@@ -14,7 +14,7 @@ In this blog, we will be discovering how to start and setup a laravel project in
 
 First, create a blank repo in github with no readme.md.
 
-Hold on, do not clone it now, instead, create a laravel project at your prefered folder (for me I will use htdocs) using the following command.  
+Hold on, do not clone it now, instead, create a laravel project at your preferred folder (for me I will use htdocs) using the following command.  
 
 But before getting into the commands, note that `your-project-name` should be identical to the name of the repo we have made before.
 
@@ -63,11 +63,11 @@ git remote add origin your-remote-repo-link
 Finally, we will set the upstream to the same remote repo so we can push to the remote repository on Github.
 
 ``` bash
-git push -u origin main (need to understand more this command)
+git push -u origin main
 ```
 
-And  congratultions, you can now work on your laravel project and use git and github to do version control for your project.  
+And  congratulations, you can now work on your laravel project and use git and github to do version control for your project.  
 
-If you found this useful, feel free to share it with your friends and collegues to help them out.  
+If you found this useful, feel free to share it with your friends and colleagues to help them out.  
 
 Enjoy, and have a nice day!
