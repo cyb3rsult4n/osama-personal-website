@@ -1,22 +1,2 @@
-- name: eJPT - eLearn Junior Penetration Tester
-  image: assets/images/certs-badges/eJPT-cert-badge.png
-  link: 'https://certs.ine.com/19e63ebf-5394-481b-a900-19b589171ffe#gs.0zzb3j'
-  description: 11/2023 - 11/2026
-- name: (ISC)² Certified in Cybersecurity (CC)
-  image: >-
-    https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png
-  link: >-
-    https://www.credly.com/badges/d75294eb-3907-4ccd-87f6-9689ac238d54/public_url
-  description: 04/2023 - 04/2026
-- name: Google IT Support Certificate
-  image: >-
-    https://images.credly.com/size/680x680/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png
-  link: >-
-    https://www.credly.com/badges/9c92a26d-3cb0-4cd4-8b5f-013951359f76/public_url
-  description: 11/2022
-- name: Google IT Automation With Python
-  image: >-
-    https://images.credly.com/size/680x680/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png
-  link: >-
-    https://www.credly.com/badges/e4ec28aa-3331-4f70-926a-646049f54818/public_url
-  description: 06/2022
+
+

@@ -1,28 +1,2 @@
-- name: Tour Reservation Website - CRUD
-  image: >-
-    https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/projects/tour-reservation-website.png
-  link: 'https://github.com/omar-danasoury/tour-reservation-website'
-  description: >-
-    A website for visitors to view, book, and rate trips. Admins can also add
-    new destinations to the database
-    
-- name: Flash Chat (Flutter + Firebase)
-  image: >-
-    https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/projects/flash2.jpeg
-  link: 'https://github.com/omar-danasoury/flash_text'
-  description: >-
-    An instant messaging app that made by using Flutter as a front-end, and Firebase as a backend.
-    
-- name: Online Course Registration System
-  image: >-
-    https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/projects/cms.png
-  link: 'https://github.com/omar-danasoury/course-registration-system'
-  description: >-
-    An online course registration system where students can register and view courses, professors can manage grades and secitons, and admins manage all system entities.
 
-- name: Bank Network Design and Implementation
-  image: >-
-    https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/projects/bank.png
-  link: 'https://github.com/omar-danasoury/enterprise-bank-network'
-  description: >-
-    A network design and implementation for a small bank branch. Subnetting was done besides configuring VLANs, SSH, Syslog, NTP, and FTP.
+

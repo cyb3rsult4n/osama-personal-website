@@ -7,52 +7,52 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: "0xCYB3RW0LF"
+title: "CYB3RSULT4N"
 # Description of the Site
-description: Welcome to Omar Eldanasoury's Personal Website
+description: Welcome to Osama Eldanasoury's Personal Website
 # URL of Image of the Site
-site-image: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/omar-danasoury.jpg
+site-image: https://raw.githubusercontent.com/cyb3rsult4n/osama-personal-website/master/assets/images/cyb3rsult4n.jpeg
 # Keywords of the Site
 site-keywords: Personal Website, Programming, Cyber Security, Kali Linux, CTFs
 # URL for the Image of custom Favicon
-favicon-url: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/favicon.png
+favicon-url: https://raw.githubusercontent.com/cyb3rsult4n/osama-personal-website/master/assets/images/favicon.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 # heroimage: /assets/images/windows.jpg
 # heroimage: https://source.unsplash.com/4Mw7nkQDByk # sudo image
 # heroimage: https://source.unsplash.com/zGuBURGGmdY # glasses and code screens
 # heroimage: https://source.unsplash.com/zvHhKiVuR9M # scripting screen
-# heroimage: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/windows2.png # windows screen, the big file
-# heroimage: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/windows.jpg # windows screen
-heroimage: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/red-cli.gif # red-cli screen
+# heroimage: https://raw.githubusercontent.com/cyb3rsult4n/osama-personal-website/master/assets/images/windows2.png # windows screen, the big file
+# heroimage: https://raw.githubusercontent.com/cyb3rsult4n/osama-personal-website/master/assets/images/windows.jpg # windows screen
+heroimage: https://raw.githubusercontent.com/cyb3rsult4n/osama-personal-website/master/assets/images/red-cli.gif # red-cli screen
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: omardanasoury8@gmail.com
+email: osamaahmed3011@gmail.com
 # facebook_username: thedevslot
 # twitter_username: thedevslot
 # instagram_username: thedevslot
-linkedin_username: omar-eldanasoury
-github_username:  omar-danasoury
+linkedin_username: osama-eldanasoury-166935223/
+github_username:  cyb3rsult4n
 # youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-tryhackme_username: Bararos01
+tryhackme_username: CyberSultan
 
 
 # Google Analytics
-google-analytics: G-KEL847MTZM
+#google-analytics: G-KEL847MTZM
 
 # Disqus
 # disqus-shortname: thedevslot
 disqus-shortname:
 
 # Name of the Author
-author-name: "Omar Eldanasoury"
+author-name: "Osama Eldanasoury"
 # URL for the Image of the Author
-author-image: https://raw.githubusercontent.com/omar-danasoury/personal-website/master/assets/images/omar-danasoury.jpg
+author-image: https://raw.githubusercontent.com/cyb3rsult4n/osama-personal-website/master/assets/images/cyb3rsult4n.jpeg
 # 60 Words About the Author
-author-about: I am Omar Eldanasoury (0xcyb3rw0lf), a senior computer science student at the University of Bahrian + Core Team Member of Google Developers Student Clubs (GDSC). I am interested in Cybersecurity, specifically Offensive Security. I like to do projects and share my knowledge with community. 
+author-about: I am Osama Eldanasoury, a Cybersecurity student at the University of Bahrain. I am a technology geek and I like building stuff using hardware and practicing coding especially with python. I like to share my experience and the stuff I learn with fellows in the community.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://linkedin.com/in/omar-eldanasoury
+author-url: https://linkedin.com/in/osama-eldanasoury-166935223/
 
 # SASS
 sass:
